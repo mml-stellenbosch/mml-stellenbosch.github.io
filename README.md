@@ -14,5 +14,5 @@ Topic to be announced.
 * * *
 **6 October 2017**
 
-Herman Kamper, _Unsupervised neural feature learning for speech using weak top-down constraints_.
+Herman Kamper, _Unsupervised neural feature learning for speech using weak top-down constraints_. [[slides](slides/2017-10-06_kamper_need_to_add_this.pdf)]
 * * *
