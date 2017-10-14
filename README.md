@@ -8,4 +8,8 @@ See our [upcoming talks](#upcoming-talks), or have a look at our [archive of pre
 
 ### Previous talks
 
+**6 October**
 
+Herman Kamper, _Unsupervised neural feature learning for speech using weak top-down constraints_.
+
+* * *
