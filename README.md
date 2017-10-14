@@ -5,6 +5,10 @@ See our [upcoming talks](#upcoming-talks), or have a look at our [previous talks
 
 ## Upcoming talks
 
+**20 October**, 13:00-13:45 in K303 (Knowledge Centre, Engineering)
+
+To be announced.
+* * *
 
 ## Previous talks
 
