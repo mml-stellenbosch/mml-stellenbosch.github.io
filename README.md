@@ -1,4 +1,13 @@
+Maties Machine Learning (MML) is a seminar series and discussion forum with the goal of bringing together people working on machine learning at Stellenbosch University. We plan to have meetings every second week, with one or more short talks on people’s current work or some ML-related topic, followed by an open discussion. The idea is really to get to know what others are working on, and to strengthen machine learning research at Stellenbosch.
+
+[test](#previous-talks)
+
+
+
 ## Welcome to GitHub Pages
+
+
+
 
 [test](test)
 
@@ -37,3 +46,6 @@ Your Pages site will use the layout and styles from the Jekyll theme you have se
 ### Support or Contact
 
 Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+
+
+### Previous talks
