@@ -5,14 +5,14 @@ See our [upcoming talks](#upcoming-talks), or have a look at our [previous talks
 
 ### Upcoming talks
 * * *
-**20 October**, 13:00-13:45 in K303 (Knowledge Centre, Engineering)
+**20 October 2017**, 13:00-13:45 in K303 (Knowledge Centre, Engineering)
 
 Topic to be announced.
 * * *
 
 ### Previous talks
 * * *
-**6 October**
+**6 October 2017**
 
 Herman Kamper, _Unsupervised neural feature learning for speech using weak top-down constraints_.
 * * *
