@@ -9,9 +9,9 @@ See our [upcoming talks](#upcoming-talks) or have a look at our [previous talks]
 
 Lightning talks from current postgraduate students:
 
-- Ewald van der Westhuizen - _Automatic speech recognition of code-switched speech for South African languages_
-- Shane Josias - _Automated identification of tsetse fly wing vein intersections_
 - Arnu Pretorius - _Using learning dynamics to understand neural network generalisation_
+- Shane Josias - _Automated identification of tsetse fly wing vein intersections_
+- Ewald van der Westhuizen - _Automatic speech recognition of code-switched speech for South African languages_
 - Greg Newman - _Deep learning for video classification_
 
 * * *
