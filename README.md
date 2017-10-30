@@ -15,7 +15,7 @@ See our [upcoming talks](#upcoming-talks) or have a look at our [previous talks]
 
 **10 November 2017**
 
-Ben Herbst, _Tutorial: Variational autoencoders_
+Ben Herbst - _Tutorial: Variational autoencoders_
 
 * * *
 
@@ -34,6 +34,6 @@ Lightning talks from current postgraduate students:
 
 **6 October 2017**
 
-Herman Kamper - _Unsupervised neural feature learning for speech using weak top-down constraints_. [[slides](slides/2017-10-06_kamper.pdf)]
+Herman Kamper - _Unsupervised neural feature learning for speech using weak top-down constraints_ [[slides](slides/2017-10-06_kamper.pdf)]
 
 * * *
