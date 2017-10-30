@@ -3,7 +3,7 @@ Maties Machine Learning (MML) is a seminar series and discussion forum with the 
 See our [upcoming talks](#upcoming-talks) or have a look at our [previous talks](#previous-talks). To subscribe to our mailing list, send an email <a href="mailto:sympa [at] sympa [dot] sun [dot] ac [dot] za?subject=subscribe mml">here</a>.
 
 
-### Upcoming talks
+## Upcoming talks
 * * *
 
 **3 November 2017**, 13:00-13:45 in K303 (Knowledge Centre, Engineering)
@@ -20,7 +20,7 @@ Ben Herbst, _Tutorial: Variational autoencoders_
 
 * * *
 
-### Previous talks
+## Previous talks
 * * *
 
 **27 October 2017**
