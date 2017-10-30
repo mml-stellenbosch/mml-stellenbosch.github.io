@@ -4,7 +4,6 @@ See our [upcoming talks](#upcoming-talks) or have a look at our [previous talks]
 
 
 ## Upcoming talks
-* * *
 
 **3 November 2017**, 13:00-13:45 in K303 (Knowledge Centre, Engineering)
 
@@ -21,7 +20,6 @@ Ben Herbst, _Tutorial: Variational autoencoders_
 * * *
 
 ## Previous talks
-* * *
 
 **27 October 2017**
 
