@@ -19,7 +19,7 @@ Ben Herbst - _Tutorial: Variational autoencoders_
 
 * * *
 
-## Previous talks
+## Previous talks (with slides)
 
 **27 October 2017**
 
