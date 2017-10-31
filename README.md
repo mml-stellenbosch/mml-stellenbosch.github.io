@@ -25,10 +25,10 @@ Ben Herbst - _Tutorial: Variational autoencoders_
 
 Lightning talks from current postgraduate students:
 
-- Arnu Pretorius - _Using learning dynamics to understand neural network generalisation_
-- Shane Josias - _Automated identification of tsetse fly wing vein intersections_
-- Ewald van der Westhuizen - _Automatic speech recognition of code-switched speech for South African languages_
-- Greg Newman - _Deep learning for video classification_
+- Arnu Pretorius - _Using learning dynamics to understand neural network generalisation_ [[slides](slides/2017-10-27_pretorius.pdf)]
+- Shane Josias - _Automated identification of tsetse fly wing vein intersections_ [[slides](slides/2017-10-27_josias.pdf)]
+- Ewald van der Westhuizen - _Automatic speech recognition of code-switched speech for South African languages_ [[slides](slides/2017-10-27_vanderwesthuizen.pptx)]
+- Greg Newman - _Deep learning for video classification_ [[slides](slides/2017-10-27_newman.pdf)]
 
 * * *
 
