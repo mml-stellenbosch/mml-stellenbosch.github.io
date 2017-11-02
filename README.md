@@ -15,7 +15,9 @@ See our [upcoming talks](#upcoming-talks) or have a look at our [previous talks]
 
 **10 November 2017**
 
-Ben Herbst - _Tutorial: Variational autoencoders_
+Ben Herbst - _Tutorial on variational autoencoders_
+
+Variational autoencoders allow the efficient representation of data on a nonlinear, lower dimensional manifold. Since the description of the manifold is probabilistic in nature, it is also a generative probabilistic model allowing the  generation of new samples. The mathematics behind variational autoencoders is actually quite  simple. The difficulty is in understanding _why_ we are doing _what_ we are doing. In this talk I'll explain step-by-step my own efforts at understanding variational autoencoders. You don't need to know what an autoencoder is, you don't even need to know what a neural network is in order to follow the arguments. 
 
 * * *
 
