@@ -18,8 +18,8 @@ Variational autoencoders allow the efficient representation of data on a nonline
 **3 November 2017**
 
 - Francois Kamper - _An empirical study of Gaussian belief propagation and application in the detection of F-formations_ [[slides](slides/2017-11-03_kamper.pdf)]
-- Simon Streicher - _Graph coloring: Comparing cluster graphs to factor graphs_ [[slides](slides/2017-11-03_lombard.pdf)]
-- Clint Lombard - _Dense relative mapping: A novel approach to dense mapping for autonomous robots_ [[slides](slides/2017-11-03_streicher.pdf)]
+- Simon Streicher - _Graph coloring: Comparing cluster graphs to factor graphs_ [[slides](slides/2017-11-03_streicher.pdf)]
+- Clint Lombard - _Dense relative mapping: A novel approach to dense mapping for autonomous robots_ [[slides](slides/2017-11-03_lombard.pdf)]
 
 * * *
 
