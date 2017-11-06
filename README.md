@@ -5,14 +5,6 @@ See our [upcoming talks](#upcoming-talks) or have a look at our [previous talks]
 
 ## Upcoming talks
 
-**3 November 2017**, 13:00-13:45 in K303 (Knowledge Centre, Engineering)
-
-- Francois Kamper - _An empirical study of Gaussian belief propagation and application in the detection of F-formations_
-- Simon Streicher - _Graph coloring: Comparing cluster graphs to factor graphs_
-- Clint Lombard - _Dense relative mapping: A novel approach to dense mapping for autonomous robots_
-
-* * *
-
 **10 November 2017**
 
 Ben Herbst - _Tutorial on variational autoencoders_
@@ -22,6 +14,14 @@ Variational autoencoders allow the efficient representation of data on a nonline
 * * *
 
 ## Previous talks (with slides)
+
+**3 November 2017**
+
+- Francois Kamper - _An empirical study of Gaussian belief propagation and application in the detection of F-formations_ [[slides](slides/2017-11-03_kamper.pdf)]
+- Simon Streicher - _Graph coloring: Comparing cluster graphs to factor graphs_ [[slides](slides/2017-11-03_lombard.pdf)]
+- Clint Lombard - _Dense relative mapping: A novel approach to dense mapping for autonomous robots_ [[slides](slides/2017-11-03_streicher.pdf)]
+
+* * *
 
 **27 October 2017**
 
