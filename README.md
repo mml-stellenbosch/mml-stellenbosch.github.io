@@ -5,15 +5,19 @@ See our [upcoming talks](#upcoming-talks) or have a look at our [previous talks]
 
 ## Upcoming talks
 
-**10 November 2017**, 13:00-13:45 in K303 (Knowledge Centre, Engineering)
+**9 February 2018**, 13:00-13:45 in K303 (Knowledge Centre, Engineering)
 
-Ben Herbst - _Tutorial on variational autoencoders_
-
-Variational autoencoders allow the efficient representation of data on a nonlinear, lower dimensional manifold. Since the description of the manifold is probabilistic in nature, it is also a generative probabilistic model allowing the  generation of new samples. The mathematics behind variational autoencoders is actually quite  simple. The difficulty is in understanding _why_ we are doing _what_ we are doing. In this talk I'll explain step-by-step my own efforts at understanding variational autoencoders. You don't need to know what an autoencoder is, you don't even need to know what a neural network is in order to follow the arguments. 
+We will resume our talks again next year. The topic of our first meeting will be announced yearly in 2018. 
 
 * * *
 
 ## Previous talks (with slides)
+
+**10 November 2017**
+
+Ben Herbst - _Tutorial on variational autoencoders_ [[slides](slides/2017-11-10_herbst.pdf)]
+
+* * *
 
 **3 November 2017**
 
