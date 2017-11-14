@@ -7,7 +7,7 @@ See our [upcoming talks](#upcoming-talks) or have a look at our [previous talks]
 
 **9 February 2018**, 13:00-13:45 in K303 (Knowledge Centre, Engineering)
 
-We will resume our talks again next year. The topic of our first meeting will be announced early in 2018. 
+The topic of our first meeting for 2018 will be announced early in the year. 
 
 * * *
 
