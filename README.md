@@ -13,6 +13,12 @@ The topic of our first meeting for 2018 will be announced early in the year.
 
 ## Previous talks (with slides)
 
+**7 December 2017**
+
+Rasmus Dall - _Jibo & His Voice_
+
+* * *
+
 **10 November 2017**
 
 Ben Herbst - _Tutorial on variational autoencoders_ [[slides](slides/2017-11-10_herbst.pdf)]
