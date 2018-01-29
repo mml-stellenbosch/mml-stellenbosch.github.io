@@ -25,7 +25,7 @@ Three students will talk about their final-year projects from last year:
 
 **9 March 2018**
 
-Emre Yilmaz (https://sites.google.com/site/schemreier/) will be visiting us from Radboud University.
+[Emre Yilmaz](https://sites.google.com/site/schemreier/) will be visiting us from Radboud University.
 
 
 * * *
