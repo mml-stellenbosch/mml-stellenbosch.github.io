@@ -21,6 +21,12 @@ Three students will talk about their final-year projects from last year:
 - Elan van Biljon - _Creating intelligent agents with reinforcement learning_
 - Ryan Eloff - _Teaching a robot  to interpret natural language navigation instructions_
 
+* * *
+
+**9 March 2018**
+
+Emre Yilmaz (https://sites.google.com/site/schemreier/) will be visiting us from Radboud University.
+
 
 * * *
 
