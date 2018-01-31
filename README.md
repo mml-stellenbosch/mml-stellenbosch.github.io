@@ -5,7 +5,7 @@ See our [upcoming talks](#upcoming-talks) or have a look at our [previous talks]
 
 ## Upcoming talks
 
-**9 February 2018**, 13:00-13:45 in K303 (Knowledge Centre, Engineering)
+**9 February 2018**, 13:00-13:45 in K302 (Knowledge Centre, Engineering)
 
 Willie Brink - _An introduction to MLNs and their use in visual relational learning_
 
