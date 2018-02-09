@@ -5,15 +5,7 @@ See our [upcoming talks](#upcoming-talks) or have a look at our [previous talks]
 
 ## Upcoming talks
 
-**9 February 2018**, 13:00-13:45 in K302 (Knowledge Centre, Engineering)
-
-Willie Brink - _An introduction to MLNs and their use in visual relational learning_
-
-Markov logic networks (MLNs) combine the expressiveness of first-order logic with the resilience of probabilistic models, and are especially useful when dealing with structured relational data. I will introduce the basics of MLNs, and outline techniques for performing inference and learning in these networks. I will also discuss a Computer Vision application that uses MLNs as a knowledge base in which to learn and reason about object attributes, relations and affordances.
-
-* * *
-
-**23 February 2018**
+**23 February 2018**, 13:00-13:45 in K302 (Knowledge Centre, Engineering)
 
 Three students will talk about their final-year projects from last year:
 
@@ -31,6 +23,12 @@ Three students will talk about their final-year projects from last year:
 * * *
 
 ## Previous talks (with slides)
+
+**9 February 2018**
+
+Willie Brink - _An introduction to MLNs and their use in visual relational learning_ [[slides](slides/2018-02-09_brink.pdf)]
+
+* * *
 
 **7 December 2017**
 
