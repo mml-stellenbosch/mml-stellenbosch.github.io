@@ -26,7 +26,7 @@ Three students will talk about their final-year projects from last year:
 
 * * *
 
-## Previous talks (with slides)
+# Previous talks (with slides)
 
 **9 February 2018**
 
@@ -71,6 +71,6 @@ Herman Kamper - _Unsupervised neural feature learning for speech using weak top-
 
 * * *
 
-## Register
+# Register
 
 Our talks are advertised mainly on our mailing list.  To subscribe to our mailing list, send an email <a href="mailto:sympa [at] sympa [dot] sun [dot] ac [dot] za?subject=subscribe mml">here</a>: fix the address, but don't change the subject line and send this from the email address that you want to register.
