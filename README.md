@@ -1,6 +1,12 @@
 Maties Machine Learning (MML) is a seminar series and discussion forum with the goal of bringing together people working on machine learning at Stellenbosch University. We plan to come together every second week, with one or more short talks on people's current work or some ML-related topic, followed by an open discussion. The idea is to get to know what others are working on, and to strengthen machine learning research at Stellenbosch.
 
-See our [upcoming talks](#upcoming-talks) or have a look at our [previous talks](#previous-talks). To subscribe to our mailing list, send an email <a href="mailto:sympa [at] sympa [dot] sun [dot] ac [dot] za?subject=subscribe mml">here</a> (fix the address, but don't change the subject line).
+Jump to:
+
+- [Upcoming talks](#upcoming-talks)
+- [Previous talks](#previous-talks)
+- [Registering to the mailing list](#registering)
+
+See our [upcoming talks](#upcoming-talks) or have a look at our [previous talks](#previous-talks). 
 
 
 ## Upcoming talks
@@ -66,3 +72,7 @@ Lightning talks from current postgraduate students:
 Herman Kamper - _Unsupervised neural feature learning for speech using weak top-down constraints_ [[slides](slides/2017-10-06_kamper.pdf)]
 
 * * *
+
+## Registering
+
+Our talks are advertised mainly on our mailing list.  To subscribe to our mailing list, send an email <a href="mailto:sympa [at] sympa [dot] sun [dot] ac [dot] za?subject=subscribe mml">here</a>: fix the address, but don't change the subject line and send this from the email address that you want to register.
