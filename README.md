@@ -7,7 +7,7 @@ Jump to:
 - [Register to the mailing list](#registering)
 
 
-## Upcoming talks
+# Upcoming talks
 
 **23 February 2018**, 13:00-13:45 in K302 (Knowledge Centre, Engineering)
 
