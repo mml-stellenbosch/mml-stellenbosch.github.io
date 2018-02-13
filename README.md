@@ -6,8 +6,6 @@ Jump to:
 - [Previous talks](#previous-talks)
 - [Registering to the mailing list](#registering)
 
-See our [upcoming talks](#upcoming-talks) or have a look at our [previous talks](#previous-talks). 
-
 
 ## Upcoming talks
 
