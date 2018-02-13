@@ -9,6 +9,8 @@ Jump to:
 
 # Upcoming talks
 
+* * *
+
 **23 February 2018**, 13:00-13:45 in K302 (Knowledge Centre, Engineering)
 
 Three students will talk about their final-year projects from last year:
@@ -27,6 +29,8 @@ Three students will talk about their final-year projects from last year:
 * * *
 
 # Previous talks (with slides)
+
+* * *
 
 **9 February 2018**
 
