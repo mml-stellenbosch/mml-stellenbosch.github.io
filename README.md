@@ -4,7 +4,7 @@ Jump to:
 
 - [Upcoming talks](#upcoming-talks)
 - [Previous talks](#previous-talks)
-- [Registering to the mailing list](#registering)
+- [Register to the mailing list](#registering)
 
 
 ## Upcoming talks
@@ -71,6 +71,6 @@ Herman Kamper - _Unsupervised neural feature learning for speech using weak top-
 
 * * *
 
-## Registering
+## Register
 
 Our talks are advertised mainly on our mailing list.  To subscribe to our mailing list, send an email <a href="mailto:sympa [at] sympa [dot] sun [dot] ac [dot] za?subject=subscribe mml">here</a>: fix the address, but don't change the subject line and send this from the email address that you want to register.
