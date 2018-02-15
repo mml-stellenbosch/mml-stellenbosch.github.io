@@ -77,4 +77,17 @@ Herman Kamper - _Unsupervised neural feature learning for speech using weak top-
 
 # Register
 
-Our talks are advertised mainly on our mailing list.  To subscribe to our mailing list, send an email <a href="mailto:sympa [at] sympa [dot] sun [dot] ac [dot] za?subject=subscribe mml">here</a>: fix the address, but don't change the subject line and send this from the email address that you want to register.
+We have two mailing lists:
+
+- **MML** is our main mailing list, announcing official talks and events from Maties Machine Learning
+
+    - To subscribe to the list, send an email <a href="mailto:sympa [at] sympa [dot] sun [dot] ac [dot] za?subject=subscribe mml">here</a>: fix the address, but don't change the subject line and send this from the email address that you want to register.
+    - To unsubscribe from this list, send an email <a href="mailto:sympa [at] sympa [dot] sun [dot] ac [dot] za?subject=unsubscribe mml">here</a>.
+    
+- **MML-adverts** is a lightly moderated list for advertising talks, scholarships, jobs and events that might be of interest to the MML community (but is not officially part of MML).
+
+    - To subscribe to the list, send an email <a href="mailto:sympa [at] sympa [dot] sun [dot] ac [dot] za?subject=subscribe mml-adverts">here</a>.
+    - To unsubscribe from the list, send an email <a href="mailto:sympa [at] sympa [dot] sun [dot] ac [dot] za?subject=unsubscribe mml-adverts">here</a>.
+    - To send an email to this list, sent it <a href="mailto:mml-adverts [at] sympa [dot] sun [dot] ac [dot] za">here</a>.
+
+
