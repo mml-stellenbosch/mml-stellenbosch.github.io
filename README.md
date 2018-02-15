@@ -3,8 +3,8 @@ Maties Machine Learning (MML) is a seminar series and discussion forum with the 
 Jump to:
 
 - [Upcoming talks](#upcoming-talks)
-- [Previous talks](#previous-talks)
-- [Register to the mailing list](#registering)
+- [Previous talks](#previous-talks-with-slides)
+- [Register to the mailing list](#register)
 
 
 # Upcoming talks
