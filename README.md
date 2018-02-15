@@ -84,7 +84,7 @@ We have two mailing lists:
     - To subscribe to the list, send an email <a href="mailto:sympa [at] sympa [dot] sun [dot] ac [dot] za?subject=subscribe mml">here</a>: fix the address, but don't change the subject line and send this from the email address that you want to register.
     - To unsubscribe from this list, send an email <a href="mailto:sympa [at] sympa [dot] sun [dot] ac [dot] za?subject=unsubscribe mml">here</a>.
     
-- **[MML-adverts]** is a lightly moderated list for advertising talks, scholarships, jobs and events that might be of interest to the MML community (but is not officially part of MML).
+- **[MML-adverts]** is a lightly moderated list for advertising talks, scholarships, jobs and events that might be of interest to the MML community (but are not officially part of MML).
 
     - To subscribe to the list, send an email <a href="mailto:sympa [at] sympa [dot] sun [dot] ac [dot] za?subject=subscribe mml-adverts">here</a>.
     - To unsubscribe from the list, send an email <a href="mailto:sympa [at] sympa [dot] sun [dot] ac [dot] za?subject=unsubscribe mml-adverts">here</a>.
