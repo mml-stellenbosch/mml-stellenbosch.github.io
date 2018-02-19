@@ -88,6 +88,6 @@ We have two mailing lists:
 
     - To subscribe to the list, send an email <a href="mailto:sympa [at] sympa [dot] sun [dot] ac [dot] za?subject=subscribe mml-adverts">here</a>.
     - To unsubscribe from the list, send an email <a href="mailto:sympa [at] sympa [dot] sun [dot] ac [dot] za?subject=unsubscribe mml-adverts">here</a>.
-    - To send an email to this list, sent it <a href="mailto:mml-adverts [at] sympa [dot] sun [dot] ac [dot] za">here</a>.
+    - To send an email to this list, send it <a href="mailto:mml-adverts [at] sympa [dot] sun [dot] ac [dot] za">here</a>.
 
 
