@@ -77,7 +77,7 @@ Herman Kamper - _Unsupervised neural feature learning for speech using weak top-
 
 We have two mailing lists:
 
-- **[MML]** is our main mailing list, for announcing official Maties Machine Learning talks and events
+- **[MML]** is our main mailing list, for announcing official Maties Machine Learning events.
 
     - To subscribe to this list, send an email <a href="mailto:sympa@sympa.sun.ac.za?subject=subscribe mml">here</a> (don't change the subject line and send this from the email address that you want to register).
     - To unsubscribe from this list, send an email <a href="mailto:sympa@sympa.sun.ac.za?subject=unsubscribe mml">here</a>.
