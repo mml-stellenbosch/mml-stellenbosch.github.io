@@ -21,6 +21,12 @@ In this talk, we describe various automatic annotation approaches to enable the 
 
 * * *
 
+**23 March 2018**
+
+We will have two (exciting and diverse) talks from Lidia Auret and Arina Britz.
+
+* * *
+
 # Previous talks (with slides)
 
 * * *
