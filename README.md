@@ -85,13 +85,13 @@ We have two mailing lists:
 
 - **[MML]** is our main mailing list, for announcing official Maties Machine Learning events.
 
-    - To subscribe to this list, send an email <a href="mailto:sympa@sympa.sun.ac.za?subject=subscribe mml">here</a> (don't change the subject line and send this from the email address that you want to register).
-    - To unsubscribe from this list, send an email <a href="mailto:sympa@sympa.sun.ac.za?subject=unsubscribe mml">here</a>.
-    
+    - [Subscribe](https://sympa.sun.ac.za/sympa/subscribe/mml)
+    - [Unsubscribe](https://sympa.sun.ac.za/sympa/signoff/mml)
+
 - **[MML-adverts]** is a lightly moderated list for advertising talks, scholarships, jobs and events that might be of interest to the MML community (but are not officially part of MML).
 
-    - To subscribe to this list, send an email <a href="mailto:sympa@sympa.sun.ac.za?subject=subscribe mml-adverts">here</a>.
-    - To unsubscribe from this list, send an email <a href="mailto:sympa@sympa.sun.ac.za?subject=unsubscribe mml-adverts">here</a>.
+    - [Subscribe](https://sympa.sun.ac.za/sympa/subscribe/mml-adverts)
+    - [Unsubscribe](https://sympa.sun.ac.za/sympa/signoff/mml-adverts)
     - To send an email to this list, send it <a href="mailto:mml-adverts [at] sympa [dot] sun [dot] ac [dot] za">here</a>.
 
 
