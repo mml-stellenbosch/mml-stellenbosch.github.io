@@ -21,6 +21,8 @@ We will have two (exciting and diverse) talks from Lidia Auret and Arina Britz.
 
 * * *
 
+**9 March 2018**
+
 Emre Yilmaz - _Language and speaker recognition for semi-supervised bilingual acoustic model training_ [[slides](slides/2018-03-09_yilmaz.pptx)]
 
 * * *
