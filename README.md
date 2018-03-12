@@ -11,17 +11,7 @@ Jump to:
 
 * * *
 
-**9 March 2018**, 13:00-13:45 in K302 (Knowledge Centre, Engineering)
-
-[Emre Yilmaz](https://sites.google.com/site/schemreier/) will be visiting us from Radboud University.
-
-**Language and speaker recognition for semi-supervised bilingual acoustic model training**
-
-In this talk, we describe various automatic annotation approaches to enable the use of a large amount of raw bilingual broadcast data for semi-supervised bilingual acoustic model training. Our research focuses on the Frisian-Dutch code-switching (CS) speech that is extracted from the archives of a local radio broadcaster. Unlike Dutch, Frisian is a low-resourced language with very limited amount of manually transcribed speech data. Using 11 hours of speaker-annotated and transcribed CS speech data as a reference, multiple deep neural network (DNN) acoustic models are trained by merging the manually and automatically annotated (combined) speech data. For automatic annotation, we propose applying language recognition to assign language labels to speech segments at the front-end and using monolingual automatic speech recognition (ASR) resources for transcribing the raw speech segments. Furthermore, speaker diarization and recognition are applied to the raw broadcast data to first assign (pseudo) speaker labels and then link the known speakers appearing in the reference data to these speaker labels. The speaker information is later used for extracting speaker-dependent features and getting alignments using speaker-dependent acoustic models for neural network training. We run ASR experiments on the development and test data of the FAME! speech corpus to quantify the quality of the automatic annotations provided by each approach. The results demonstrate that applying speaker and language recognition improves the automatic annotation quality yielding better bilingual acoustic models with lower recognition errors and higher CS detection accuracy. After increasing the available CS training data using these automatic annotation strategies, we investigate incorporating more speech data from the high-resourced mixed language (Dutch in this case) to enable the use of state-of-the-art acoustic models which outperforms standard DNNs when using much larger amounts of training data. Including around 750 hours of monolingual Dutch training data provides significantly better CS ASR performance compared to a baseline only trained on the manually and automatically transcribed CS training data.
-
-* * *
-
-**23 March 2018**
+**23 March 2018**, 13:00-13:45 in K302 (Knowledge Centre, Engineering)
 
 We will have two (exciting and diverse) talks from Lidia Auret and Arina Britz.
 
