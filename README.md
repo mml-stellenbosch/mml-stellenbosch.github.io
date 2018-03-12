@@ -31,6 +31,10 @@ We will have two (exciting and diverse) talks from Lidia Auret and Arina Britz.
 
 * * *
 
+Emre Yilmaz - _Language and speaker recognition for semi-supervised bilingual acoustic model training_ [[slides](slides/2018-03-09_yilmaz.pptx)]
+
+* * *
+
 **23 February 2018**
 
 - Miguel Smith - _Pathfinding in an emulated Minecraft client_ [[slides](slides/2018-02-23_smith.pdf)]
