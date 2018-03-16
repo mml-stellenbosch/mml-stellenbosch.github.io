@@ -13,17 +13,17 @@ Jump to:
 
 **23 March 2018**, 13:00-13:45 in K302 (Knowledge Centre, Engineering)
 
+**Arina Britz - _Contextual defeasible ontologies_**
+
+Description logics are decidable fragments of first-order logic that serve as the formal foundation for Semantic Web ontologies. An important limitation is that they support only classical reasoning, and are therefore not robust in handling exceptions. In order to support defeasible reasoning, various remedies and extensions can be considered. One option is to generalise the underlying classical semantics by adopting the well-known preferential approach to non-monotonic reasoning. This yields a logic in which one can build contextual defeasible ontologies, without paying any computational price.
+
 **Lidia Auret - _Machine learning in mineral processing_**
 
 Mineral processing involves the extraction of valuable metals from mined ore on an industrial scale. The processing plants are large-scale continuous production facilities, with complex behaviour arising due to material recycle, control interactions, disturbances, abnormal events, equipment wear, and more. Given the diversity and quantity of data collected on these plants, as well as the cost and complexity of developing accurate fundamental models, there is scope for a variety of machine learning applications in mineral processing.
 
 One application category is abnormal event detection through unsupervised learning. Abnormal events are typically rare (but with potentially significant impact on safety and profit), and include equipment failures, incorrect operator actions and extreme disturbances. Unsupervised learning approaches can be used for novelty / abnormal event detection, as well as for data visualization purposes. Example techniques include principal component analysis and autoencoders.
 
-Another application category is development of soft sensors by means of supervised learning. Examples from our research include computer vision sensors, where the input images consist of multiphase process mixtures (e.g. muddy bubbles and streams), and the outputs predicted include some process performance indicators, e.g. metal content or optimal actuator settings. Example techniques include texture feature extraction and convolutional neural networks combined with simple classifiers such as k nearest neighbours or linear discriminant analysis. 
-
-**Arina Britz - _Contextual defeasible ontologies_**
-
-Description logics are decidable fragments of first-order logic that serve as the formal foundation for Semantic Web ontologies. An important limitation is that they support only classical reasoning, and are therefore not robust in handling exceptions. In order to support defeasible reasoning, various remedies and extensions can be considered. One option is to generalise the underlying classical semantics by adopting the well-known preferential approach to non-monotonic reasoning. This yields a logic in which one can build contextual defeasible ontologies, without paying any computational price.
+Another application category is development of soft sensors by means of supervised learning. Examples from our research include computer vision sensors, where the input images consist of multiphase process mixtures (e.g. muddy bubbles and streams), and the outputs predicted include some process performance indicators, e.g. metal content or optimal actuator settings. Example techniques include texture feature extraction and convolutional neural networks combined with simple classifiers such as k nearest neighbours or linear discriminant analysis.
 
 * * *
 
