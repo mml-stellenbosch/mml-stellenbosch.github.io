@@ -11,7 +11,7 @@ Jump to:
 
 * * *
 
-**23 March 2018**, 13:00-13:45 in K302 (Knowledge Centre, Engineering)
+**23 March 2018**, 13:00-13:45 in the Mathematical Sciences and Industrial Psychology building, room 1005
 
 **Arina Britz - _Contextual defeasible ontologies_**
 
