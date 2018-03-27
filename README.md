@@ -31,6 +31,13 @@ Another application category is development of soft sensors by means of supervis
 
 * * *
 
+**23 March 2018**
+
+- Arina Britz - _Contextual defeasible ontologies_ [[slides](slides/2018-03-23_britz.pdf)]
+- Lidia Auret - _Machine learning in mineral processing_ [[slides](slides/2018-03-23_auret.pdf)]
+
+* * *
+
 **9 March 2018**
 
 Emre Yilmaz - _Language and speaker recognition for semi-supervised bilingual acoustic model training_ [[slides](slides/2018-03-09_yilmaz.pptx)]
