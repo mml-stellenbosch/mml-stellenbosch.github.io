@@ -13,7 +13,7 @@ Jump to:
 
 **20 April 2018**, 13:00-13:45 in K302 (Knowledge Centre, Engineering)
 
-At this coming meeting we will have two exciting talks:
+We will have two exciting talks:
 
 **Hugo Touchette - _Applications of large deviation theory_**
 
@@ -21,7 +21,7 @@ Large deviation theory was developed in the 1960s to deal with the probability o
 
 In this short talk, I will give a quick introduction to this theory using simple examples to illustrate the basic ideas at the core of it. The most important is the phenomenon of concentration of probability, which is related in physics to the emergence of macroscopic deterministic behaviour. At the end, I will also try to make connections with some problems in machine learning.
 
-**Hélène Nieuwoudt - _Modelling the sensory space of varietal wines: Mining of large, unstructured text data and visualisation of style patterns _**
+**Hélène Nieuwoudt - _Modelling the sensory space of varietal wines: Mining of large, unstructured text data and visualisation of style patterns_**
 
 In the field of wine sensory and consumer research, the concept of wine style is important for several reasons. From a technical perspective,  style characteristics reveal something about the management of the vineyard, as well as the steps that were taken in the cellar to produce the wine.  Consumers, on the other hand, require that a  specific style has a recognisable identity  (captured by its sensory cues) that remains consistent over consecutive vintages. Brand managers know how important this aspect is. With this in mind, we were interested in modelling and visualising the sensory dimensions of South African white varietal wines, and we mined the publicly available sensory descriptions of some 7,000 Chenin blanc and Sauvignon blanc wines for this purpose. The initial dataset was big, containing some 38,500 words and extensive pre-processing of the original text was necessary before further data mining. A novel application of formal concept lattices, in the subfield of machine learning and information science, together with conventional statistical tests were used to visualise the sensory domains of the varietals, and the sensory cues for specific styles were identified. The interactional data mining and visualisation-driven approach used here opened up new investigations towards a better understanding of the full sensory picture of wine varietals and their substyles.
 
