@@ -31,9 +31,9 @@ In the field of wine sensory and consumer research, the concept of wine style is
 
 We will have talks from three masters students on current and past work:
 
-- Lydia De Lange - _Deep Learning for Food Security? Automatic Plant Disease Recognition_
-- Elan van Biljon - _Creating Intelligent Agents with Reinforcement Learning_
-- Felix Mcgregor - _An introduction to Sum-Product Networks: A new deep probabilistic architecture_
+- Elan van Biljon - _Creating intelligent agents with reinforcement learning_
+- Lydia De Lange - _Deep learning for food security? Automatic plant disease recognition_
+- Felix Mcgregor - _An introduction to sum-product networks: A new deep probabilistic architecture_
 
 * * *
 
