@@ -29,7 +29,7 @@ In the field of wine sensory and consumer research, the concept of wine style is
 
 **26 April 2018**, 13:00-13:45 in K303 (Knowledge Centre, Engineering)
 
-We will have three talks from current masters students on current and past work:
+We will have talks from three masters students on current and past work:
 
 - Lydia De Lange - _Deep Learning for Food Security? Automatic Plant Disease Recognition_
 - Elan van Biljon - _Creating Intelligent Agents with Reinforcement Learning_
