@@ -1,4 +1,4 @@
-Maties Machine Learning (MML) is a seminar series and discussion forum with the goal of bringing together people working on machine learning at Stellenbosch University. We come together roughly every second week, for one or more short talks on people's current work or some ML-related topic, and open discussions. The idea is to get to know what others are working on, and to strengthen machine learning research at Stellenbosch.
+Maties Machine Learning (MML) is a seminar series and discussion forum with the goal of bringing together people working on machine learning at Stellenbosch University. We meet roughly every second week, for short talks on people's current work or some ML-related topic, and open discussions. The idea is to get to know what others are working on, and to strengthen machine learning research at Stellenbosch.
 
 Jump to:
 
