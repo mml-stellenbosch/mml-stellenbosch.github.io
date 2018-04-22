@@ -1,4 +1,4 @@
-Maties Machine Learning (MML) is a seminar series and discussion forum with the goal of bringing together people working on machine learning at Stellenbosch University. We plan to come together every second week, with one or more short talks on people's current work or some ML-related topic, followed by an open discussion. The idea is to get to know what others are working on, and to strengthen machine learning research at Stellenbosch.
+Maties Machine Learning (MML) is a seminar series and discussion forum with the goal of bringing together people working on machine learning at Stellenbosch University. We come together roughly every second week, for one or more short talks on people's current work or some ML-related topic, and open discussions. The idea is to get to know what others are working on, and to strengthen machine learning research at Stellenbosch.
 
 Jump to:
 
@@ -16,8 +16,8 @@ Jump to:
 We will have talks from three masters students on current and past work:
 
 - Elan van Biljon - _Creating intelligent agents with reinforcement learning_
-- Lydia De Lange - _Deep learning for food security? Automatic plant disease recognition_
-- Felix Mcgregor - _An introduction to sum-product networks: A new deep probabilistic architecture_
+- Lydia de Lange - _Deep learning for food security? Automatic plant disease recognition_
+- Felix McGregor - _An introduction to sum-product networks: a new deep probabilistic architecture_
 
 * * *
 
