@@ -25,9 +25,17 @@ We will have talks from three masters students on current and past work:
 
 * * *
 
+**26 April 2018**
+
+- Elan van Biljon - _Creating intelligent agents with reinforcement learning_ [[slides](slides/2018-04-26_vanbiljon.pdf)]
+- Lydia de Lange - _Deep learning for food security? Automatic plant disease recognition_ [[slides](slides/2018-04-26_delange.pdf)]
+- Felix McGregor - _An introduction to sum-product networks: a new deep probabilistic architecture_ [[slides](slides/2018-04-26_mcgregor.pdf)]
+
+* * *
+
 **20 April 2018**
 
-- Hugo Touchette - _Applications of large deviation theory_ [[slides](slides/2017-04-20_touchette.pdf)]
+- Hugo Touchette - _Applications of large deviation theory_ [[slides](slides/2018-04-20_touchette.pdf)]
 - Hélène Nieuwoudt - _Modelling the sensory space of varietal wines: mining of large, unstructured text data and visualisation of style patterns_
 
 * * *
