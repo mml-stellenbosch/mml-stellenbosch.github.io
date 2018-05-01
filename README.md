@@ -11,13 +11,9 @@ Jump to:
 
 * * *
 
-**26 April 2018**, 13:00-13:45 in K303 (Knowledge Centre, Engineering)
+**11 May 2018**, 13:00-13:45 in K303 (Knowledge Centre, Engineering)
 
-We will have talks from three masters students on current and past work:
-
-- Elan van Biljon - _Creating intelligent agents with reinforcement learning_
-- Lydia de Lange - _Deep learning for food security? Automatic plant disease recognition_
-- Felix McGregor - _An introduction to sum-product networks: a new deep probabilistic architecture_
+TBA
 
 * * *
 
