@@ -11,7 +11,7 @@ Jump to:
 
 * * *
 
-**18 May 2018**, 13:00-13:45, venue to be determined
+**18 May 2018**, 13:00-13:45 in K303 (Knowledge Centre, Engineering)
 
 Stuart Reid - _Deep learning in complex dynamical systems_
 
