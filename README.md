@@ -11,9 +11,11 @@ Jump to:
 
 * * *
 
-**11 May 2018**, 13:00-13:45 in K303 (Knowledge Centre, Engineering)
+**18 May 2018**, 13:00-13:45, venue to be determined
 
-TBA
+Stuart Reid - _Deep learning in complex dynamical systems_
+
+One assumption often made by machine learning methods is that the data generating process is stationary meaning that it doesn't change over time. In seemingly stationary environments this assumption can, surprisingly, be unsound. Sensors attached to machinery (including self-driving cars) degrade over time and with them so do the quality and distribution of the data. In dynamical environments this assumption is, unsurprisingly, unsound. Many real-world systems including fluid flows, ecosystems, weather, financial markets, and the human body are nonstationary meaning that the distribution of data in such systems change over time. Such dynamics go by many names: regime changes, phase transitions, or concept drift. One side effect of this is that any model trained on historical data will inevitably deteriorate with time. In this talk I will contrast passive and active approaches for dealing with non-stationarity in complex dynamical systems including: online learning, ensembles, dynamic ensembles, stacking, dynamic reinitialization, adaptive window sizing using change detection tests, and non-contiguous data sampling. These techniques can be used individually or in combination to combat model deterioration.
 
 * * *
 
