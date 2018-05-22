@@ -11,7 +11,7 @@ Jump to:
 
 * * *
 
-**25 May 2018**, 13:00-13:45 in E354 (Electrical and Electronic Engineering Building)
+**25 May 2018**, 13:00-13:45 in E352/353 (Electrical & Electronic Engineering Building)
 
 Frans Cronje - _The application of VAEs to manufacturing data and practical experiments thereof_
 
