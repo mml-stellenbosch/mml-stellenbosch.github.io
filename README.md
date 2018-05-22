@@ -11,15 +11,23 @@ Jump to:
 
 * * *
 
-**18 May 2018**, 13:00-13:45 in K303 (Knowledge Centre, Engineering)
+**25 May 2018**, 13:00-13:45 in E354 (Electrical and Electronic Engineering Building)
 
-Stuart Reid - _Deep learning in complex dynamical systems_
+Frans Cronje - _The application of VAEs to manufacturing data and practical experiments thereof_
 
-One assumption often made by machine learning methods is that the data generating process is stationary meaning that it doesn't change over time. In seemingly stationary environments this assumption can, surprisingly, be unsound. Sensors attached to machinery (including self-driving cars) degrade over time and with them so do the quality and distribution of the data. In dynamical environments this assumption is, unsurprisingly, unsound. Many real-world systems including fluid flows, ecosystems, weather, financial markets, and the human body are nonstationary meaning that the distribution of data in such systems change over time. Such dynamics go by many names: regime changes, phase transitions, or concept drift. One side effect of this is that any model trained on historical data will inevitably deteriorate with time. In this talk I will contrast passive and active approaches for dealing with non-stationarity in complex dynamical systems including: online learning, ensembles, dynamic ensembles, stacking, dynamic reinitialization, adaptive window sizing using change detection tests, and non-contiguous data sampling. These techniques can be used individually or in combination to combat model deterioration.
+Day to day, DataProphet, a machine learning company based in Cape Town, makes use of Variational Autoencoders (VAE) when developing machine learning solutions for industry. This talk will focus upon some of the results achieved when applying VAEs to manufacturing data as well as some of the practical limitations of VAEs and our research in that regard. 
+
+Frans is the Managing Director of DataProphet, a machine learning company based in Cape Town focusing on the application of machine learning to the manufacturing environment. Prior to starting DataProphet, Frans completed his Masters in Mathematical Statistics from UCT where his dissertation focused on the application of convolutional neural networks to the recognition of human action in video. 
 
 * * *
 
 # Previous talks (with slides)
+
+* * *
+
+**18 May 2018**
+
+Stuart Reid - _Deep learning in complex dynamical systems_ [[slides](slides/2018-05-18_reid.pdf)]
 
 * * *
 
