@@ -15,7 +15,7 @@ Jump to:
 
 Ulrich Paquet - _Recent advances in probabilistic inference_
 
-Ulrich is a research scientist at DeepMind. He will discuss recent advances and a few new ideas in probabilistic inference. Time permitting, he may also touch upon complementary learning systems and their applications in AI.
+Ulrich is a research scientist at DeepMind. He will discuss recent advances in probabilistic inference, including a few new ideas. Time permitting, he may also touch upon complementary learning systems and their applications in AI.
 
 * * *
 
