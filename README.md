@@ -11,17 +11,21 @@ Jump to:
 
 * * *
 
-**25 May 2018**, 13:00-13:45 in E352/353 (Electrical & Electronic Engineering Building)
+**14 June 2018**, 13:00-13:45 in E352/353 (Electrical & Electronic Engineering Building)
 
-Frans Cronje - _The application of VAEs to manufacturing data and practical experiments thereof_
+Ulrich Paquet - _Recent advances in probabilistic inference_
 
-Day to day, DataProphet, a machine learning company based in Cape Town, makes use of Variational Autoencoders (VAE) when developing machine learning solutions for industry. This talk will focus upon some of the results achieved when applying VAEs to manufacturing data as well as some of the practical limitations of VAEs and our research in that regard. 
-
-Frans is the Managing Director of DataProphet, a machine learning company based in Cape Town focusing on the application of machine learning to the manufacturing environment. Prior to starting DataProphet, Frans completed his Masters in Mathematical Statistics from UCT where his dissertation focused on the application of convolutional neural networks to the recognition of human action in video. 
+Ulrich is a research scientist at DeepMind. He will discuss recent advances and a few new ideas in probabilistic inference. Time permitting, he may also touch upon complementary learning systems and their applications in AI.
 
 * * *
 
 # Previous talks (with slides)
+
+* * *
+
+**25 May 2018**
+
+Frans Cronje - _The application of VAEs to manufacturing data and practical experiments thereof_
 
 * * *
 
