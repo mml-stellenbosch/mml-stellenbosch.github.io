@@ -25,7 +25,7 @@ Ulrich is a research scientist at DeepMind. He will discuss recent advances in p
 
 **25 May 2018**
 
-Frans Cronje - _The application of VAEs to manufacturing data and practical experiments thereof_
+Frans Cronje - _The application of VAEs to manufacturing data and practical experiments thereof_ [[slides](slides/2018-05-25_cronje.pdf)]
 
 * * *
 
