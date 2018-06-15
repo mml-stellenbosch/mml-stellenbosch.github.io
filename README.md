@@ -13,7 +13,7 @@ Jump to:
 
 **14 June 2018**, 13:00-13:45 in E352/353 (Electrical & Electronic Engineering Building)
 
-Ulrich Paquet - _Recent advances in probabilistic inference_
+Ulrich Paquet - _Recent advances in probabilistic inference_ [[slides](http://www2.compute.dtu.dk/~tobo/trends-in-ai2/ulrich.pdf)]
 
 Ulrich is a research scientist at DeepMind. He will discuss recent advances in probabilistic inference, including a few new ideas. Time permitting, he may also touch upon complementary learning systems and their applications in AI.
 
