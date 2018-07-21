@@ -11,15 +11,60 @@ Jump to:
 
 * * *
 
-**14 June 2018**, 13:00-13:45 in E352/353 (Electrical & Electronic Engineering Building)
+**27 July 2018**, 13:00-13:50, K303 (Knowledge Centre, Engineering)
 
-Ulrich Paquet - _Recent advances in probabilistic inference_ [[slides](http://www2.compute.dtu.dk/~tobo/trends-in-ai2/ulrich.pdf)]
+Luca Steyn - _Combining extreme value theory and machine learning for novelty detection_
 
-Ulrich is a research scientist at DeepMind. He will discuss recent advances in probabilistic inference, including a few new ideas. Time permitting, he may also touch upon complementary learning systems and their applications in AI.
+Novelty (Anomaly) detection is the process of detecting when new observations differ from their expected behaviour. These anomalous observations are scarce and differ severely. Therefore, supervised methods struggle to detect the anomalous class. This talk explores the use of combining extreme value theory and learning algorithms for novelty detection. Extreme value theory (EVT) is the theory of modelling the tails of a distribution. This makes EVT suitable for anomaly detection. It is discussed how extreme value theory for novelty detection can be applied in supervised and unsupervised settings. Specifically, extreme value theory is used with a Gaussian mixture model and a convolutional neural network (respectively) to detect anomalous observations or new classes. Some thoughts on how to combine extreme value theory and random forests are also discussed. These methods are applied to two datasets to demonstrate some of the application areas. 
+
+* * *
+
+**8 August 2018**, 16:00-17:00, A407 (General Engineering Building)
+
+Etienne Barnard - _Generalization in Deep Learning: Who buys lunch?_
+
+The successes that have been achieved with Deep Neural Nets in recent years rely on
+the unprecedented ability of these networks to generalize on unseen data. However, 
+this property of DNNs is somewhat mysterious, since it occurs in models with many 
+more parameters than conventional machine-learning theories would recommend. I 
+review the empirical evidence for such paradoxical generalization in DNNs, and then 
+present a few perspectives on how generalization may arise under these circumstances. 
+These approaches (which include the controversial ‘no free lunch theorem’) do not 
+explain the performance of DNNs, but provide some potentially useful insights. I will 
+end with speculations on a more satisfactory basis for understanding generalization.
+
+This is a joint talk with the Division of Computer Science.
+
+* * *
+
+**17 August 2018**, 13:00-13:50
+
+We will have a number of spotlight talks by current postgraduate students:
+
+- Armand Du Plessis
+- Luyolo Magangane
+- Jeanne Daniel
+- More to come, with titles...
+
+* * *
+
+**31 August 2018**, 13:00-13:50
+
+Chris Currin - _Computational Neuroscience: The Brain-Computer Science Interface_
+
+Understanding intelligence is one of the most challenging scientific problems faced by humanity. This talk will provide an introduction to the multi-disciplinary field of Computational Neuroscience: the questions it seeks to answer and some of the (mathematical & computational) techniques used to investigate how we fundamentally think. 
+
+Currently doing his Computational Neuroscience PhD at the University of Cape Town, Chris has a wonderfully weird background in machine learning, neuroscience, and psychology. He is fascinated by how we think and learn, sometimes to a fault, and how this works in both biological and artificial intelligence.
 
 * * *
 
 # Previous talks (with slides)
+
+* * *
+
+**14 June 2018**
+
+Ulrich Paquet - _Recent advances in probabilistic inference_ [[slides](http://www2.compute.dtu.dk/~tobo/trends-in-ai2/ulrich.pdf)]
 
 * * *
 
