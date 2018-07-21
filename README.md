@@ -21,36 +21,23 @@ Novelty (Anomaly) detection is the process of detecting when new observations di
 
 **8 August 2018**, 16:00-17:00, A407 (General Engineering Building)
 
-Etienne Barnard - _Generalization in Deep Learning: Who buys lunch?_
+Etienne Barnard - _Generalization in deep learning: who buys lunch?_
 
-The successes that have been achieved with Deep Neural Nets in recent years rely on
-the unprecedented ability of these networks to generalize on unseen data. However, 
-this property of DNNs is somewhat mysterious, since it occurs in models with many 
-more parameters than conventional machine-learning theories would recommend. I 
-review the empirical evidence for such paradoxical generalization in DNNs, and then 
-present a few perspectives on how generalization may arise under these circumstances. 
-These approaches (which include the controversial ‘no free lunch theorem’) do not 
-explain the performance of DNNs, but provide some potentially useful insights. I will 
-end with speculations on a more satisfactory basis for understanding generalization.
+The successes that have been achieved with Deep Neural Nets in recent years rely on the unprecedented ability of these networks to generalize on unseen data. However, this property of DNNs is somewhat mysterious, since it occurs in models with many more parameters than conventional machine learning theories would recommend. I review the empirical evidence for such paradoxical generalization in DNNs, and then present a few perspectives on how generalization may arise under these circumstances. These approaches (which include the controversial ‘no free lunch theorem’) do not explain the performance of DNNs, but provide some potentially useful insights. I will end with speculations on a more satisfactory basis for understanding generalization.
 
-This is a joint talk with the Division of Computer Science.
+This talk is a joint event with the Division of Computer Science.
 
 * * *
 
 **17 August 2018**, 13:00-13:50
 
-We will have a number of spotlight talks by current postgraduate students:
-
-- Armand Du Plessis
-- Luyolo Magangane
-- Jeanne Daniel
-- More to come, with titles...
+Spotlight talks by postgraduate students. More details coming soon...
 
 * * *
 
 **31 August 2018**, 13:00-13:50
 
-Chris Currin - _Computational Neuroscience: The Brain-Computer Science Interface_
+Christopher Currin - _Computational neuroscience: the brain-computer science interface_
 
 Understanding intelligence is one of the most challenging scientific problems faced by humanity. This talk will provide an introduction to the multi-disciplinary field of Computational Neuroscience: the questions it seeks to answer and some of the (mathematical & computational) techniques used to investigate how we fundamentally think. 
 
