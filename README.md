@@ -11,14 +11,6 @@ Jump to:
 
 * * *
 
-**27 July 2018**, 13:00-13:50, K303 (Knowledge Centre, Engineering)
-
-Luca Steyn - _Combining extreme value theory and machine learning for novelty detection_
-
-Novelty (Anomaly) detection is the process of detecting when new observations differ from their expected behaviour. These anomalous observations are scarce and differ severely. Therefore, supervised methods struggle to detect the anomalous class. This talk explores the use of combining extreme value theory and learning algorithms for novelty detection. Extreme value theory (EVT) is the theory of modelling the tails of a distribution. This makes EVT suitable for anomaly detection. It is discussed how extreme value theory for novelty detection can be applied in supervised and unsupervised settings. Specifically, extreme value theory is used with a Gaussian mixture model and a convolutional neural network (respectively) to detect anomalous observations or new classes. Some thoughts on how to combine extreme value theory and random forests are also discussed. These methods are applied to two datasets to demonstrate some of the application areas. 
-
-* * *
-
 **8 August 2018**, 16:00-17:00, A407 (General Engineering Building)
 
 Etienne Barnard - _Generalization in deep learning: who buys lunch?_
@@ -46,6 +38,12 @@ Currently doing his Computational Neuroscience PhD at the University of Cape Tow
 * * *
 
 # Previous talks (with slides)
+
+* * *
+
+**27 July 2018**
+
+Luca Steyn - _Combining extreme value theory and machine learning for novelty detection_ [[slides](slides/2018-07-27_steyn.pdf)]
 
 * * *
 
