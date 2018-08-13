@@ -16,6 +16,7 @@ Jump to:
 Spotlight talks by postgraduate students:
 
 - Armand Du Plessis - _Development and application of a short term power forecasting model for large-grid connected photovoltaic systems_
+- Luyolo Magangane - _Deep knowledge modelling with recursive tensor neural networks_
 - Peter Thompson - _Image and attribute based identification of Protea species using machine-learning techniques_
 - Pieter Uys - _Image reconstruction from EEG signals using convolutional neural networks_
 - Andreas Werle van der Merwe - _Multi-class EEG classification through neuroevolution_
