@@ -11,19 +11,14 @@ Jump to:
 
 * * *
 
-**8 August 2018**, 16:00-17:00, A407 (General Engineering Building)
-
-Etienne Barnard - _Generalization in deep learning: who buys lunch?_
-
-The successes that have been achieved with Deep Neural Nets in recent years rely on the unprecedented ability of these networks to generalize on unseen data. However, this property of DNNs is somewhat mysterious, since it occurs in models with many more parameters than conventional machine learning theories would recommend. I review the empirical evidence for such paradoxical generalization in DNNs, and then present a few perspectives on how generalization may arise under these circumstances. These approaches (which include the controversial ‘no free lunch theorem’) do not explain the performance of DNNs, but provide some potentially useful insights. I will end with speculations on a more satisfactory basis for understanding generalization.
-
-This talk is a joint event with the Division of Computer Science.
-
-* * *
-
 **17 August 2018**, 13:00-13:50
 
-Spotlight talks by postgraduate students. More details coming soon...
+Spotlight talks by postgraduate students:
+
+- Armand Du Plessis - _Development and application of a short term power forecasting model for large-grid connected photovoltaic systems
+- Peter Thompson - _Image and attribute based identification of Protea species using machine-learning techniques
+- Pieter Uys - _Image reconstruction from EEG signals using convolutional neural networks_
+- Andreas Werle van der Merwe - _Multi-class EEG classification through neuroevolution_
 
 * * *
 
@@ -38,6 +33,13 @@ Currently doing his Computational Neuroscience PhD at the University of Cape Tow
 * * *
 
 # Previous talks (with slides)
+
+* * *
+
+**8 August 2018**
+
+Etienne Barnard - _Generalization in deep learning: who buys lunch?_ [[slides](slides/2018-08-08_barnard.pptx)]
+
 
 * * *
 
