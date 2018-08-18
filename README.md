@@ -11,19 +11,7 @@ Jump to:
 
 * * *
 
-**17 August 2018**, 13:00-13:50 in K303 (Knowledge Centre, Engineering)
-
-Spotlight talks by postgraduate students:
-
-- Armand du Plessis - _Development and application of a short term power forecasting model for large-grid connected photovoltaic systems_
-- Luyolo Magangane - _Deep knowledge modelling with recursive tensor neural networks_
-- Peter Thompson - _Image and attribute based identification of Protea species using machine learning techniques_
-- Pieter Uys - _Image reconstruction from EEG signals using convolutional neural networks_
-- Andreas Werle van der Merwe - _Multi-class EEG classification through neuroevolution_
-
-* * *
-
-**31 August 2018**, 13:00-13:50
+**31 August 2018**, 13:00-13:50 in K303 (Knowledge Centre, Engineering)
 
 Christopher Currin - _Computational neuroscience: the brain-computer science interface_
 
@@ -34,6 +22,12 @@ Currently doing his Computational Neuroscience PhD at the University of Cape Tow
 * * *
 
 # Previous talks (with slides)
+
+- Armand du Plessis - _Development and application of a short term power forecasting model for large-grid connected photovoltaic systems_ [[slides](slides/2018-08-17_duplessis.pdf)]
+- Luyolo Magangane - _Deep knowledge modelling with recursive tensor neural networks_ [[slides](https://prezi.com/view/FxTM76sgH2SpxphSunnQ/)]
+- Peter Thompson - _Image and attribute based identification of Protea species using machine learning techniques_  [[slides](slides/2018-08-17_thompson.pdf)]
+- Pieter Uys - _Image reconstruction from EEG signals using convolutional neural networks_
+- Andreas Werle van der Merwe - _Multi-class EEG classification through neuroevolution_  [[slides](slides/2018-08-17_werlevandermerwe.pptx)]
 
 * * *
 
