@@ -11,17 +11,23 @@ Jump to:
 
 * * *
 
-**31 August 2018**, 13:00-13:50 in K303 (Knowledge Centre, Engineering)
+**6 September 2018**, 13:00-13:50 in E202 (Auditorium at E&E Engineering)
 
-Christopher Currin - _Computational neuroscience: the brain-computer science interface_
+Jacek Malec - _Teaching robots to manipulate_
 
-Understanding intelligence is one of the most challenging scientific problems faced by humanity. This talk will provide an introduction to the multi-disciplinary field of Computational Neuroscience: the questions it seeks to answer and some of the (mathematical & computational) techniques used to investigate how we fundamentally think. 
+Industrial robot systems being deployed today do not contain domain knowledge to aid robot operators in setup and operational use. To gather such knowledge in a robotic context requires mechanisms for entering and capturing semantic data. Such mechanisms would allow a system to gradually build a working vocabulary while interacting with the environment and operators, valuable for bootstrapping the system knowledge and ensuring the data collection over time.
 
-Currently doing his Computational Neuroscience PhD at the University of Cape Town, Chris has a wonderfully weird background in machine learning, neuroscience, and psychology. He is fascinated by how we think and learn, sometimes to a fault, and how this works in both biological and artificial intelligence.
+In this talk I will present recent work done in the Lund robotic laboratory that makes the knowledge acquisition easier in the context of kinaesthetic teaching of a dual-arm collaborative industrial robot.
 
 * * *
 
 # Previous talks (with slides)
+
+* * *
+
+**31 August 2018**
+
+Christopher Currin - _Computational neuroscience: the brain-computer science interface_ [[slides](https://www.slideshare.net/ChristopherCurrin/computational-neuroscience-the-brain-computer-science-interface)]
 
 * * *
 
@@ -38,7 +44,6 @@ Currently doing his Computational Neuroscience PhD at the University of Cape Tow
 **8 August 2018**
 
 Etienne Barnard - _Generalization in deep learning: who buys lunch?_ [[slides](slides/2018-08-08_barnard.pptx)]
-
 
 * * *
 
