@@ -11,17 +11,19 @@ Jump to:
 
 * * *
 
-**6 September 2018**, 13:00-13:50 in E202 (Auditorium at E&E Engineering)
+**17 September 2018**, 13:00-13:50 in K303 (Knowledge Centre, Engineering)
 
-Jacek Malec - _Teaching robots to manipulate_
-
-Industrial robot systems being deployed today do not contain domain knowledge to aid robot operators in setup and operational use. To gather such knowledge in a robotic context requires mechanisms for entering and capturing semantic data. Such mechanisms would allow a system to gradually build a working vocabulary while interacting with the environment and operators, valuable for bootstrapping the system knowledge and ensuring the data collection over time.
-
-In this talk I will present recent work done in the Lund robotic laboratory that makes the knowledge acquisition easier in the context of kinaesthetic teaching of a dual-arm collaborative industrial robot.
+Benjamin Rosman - _Reinforcement learning at Wits_
 
 * * *
 
 # Previous talks (with slides)
+
+* * *
+
+**6 September 2018**
+
+Jacek Malec - _Teaching robots to manipulate_
 
 * * *
 
