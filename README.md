@@ -11,13 +11,20 @@ Jump to:
 
 * * *
 
-**17 September 2018**, 13:00-13:50 in K303 (Knowledge Centre, Engineering)
+**5 October 2018**, 13:00-13:50 in K303 (Knowledge Centre, Engineering)
 
-Benjamin Rosman - _Reinforcement learning at Wits_
+Jeanne Daniel - _Language identification in short text using deep learning_
+Herman Kamper - _Visually grounded cross-lingual keyword spotting in speech_
 
 * * *
 
 # Previous talks (with slides)
+
+* * *
+
+**17 September 2018**
+
+Benjamin Rosman - _Reinforcement learning at Wits_
 
 * * *
 
