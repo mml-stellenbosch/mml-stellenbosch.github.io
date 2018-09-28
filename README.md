@@ -13,8 +13,16 @@ Jump to:
 
 **5 October 2018**, 13:00-13:50 in K303 (Knowledge Centre, Engineering)
 
-Jeanne Daniel - _Language identification in short text using deep learning_
-Herman Kamper - _Visually grounded cross-lingual keyword spotting in speech_
+- Jeanne Daniel - _Language identification in short text using deep learning_
+- Herman Kamper - _Visually grounded cross-lingual keyword spotting in speech_
+
+* * *
+
+**19 October 2018**
+
+Grant Rotskoff - _Neural networks as interacting particle systems_
+
+I will describe a mapping from "wide" neural networks to systems of interacting particles in an external potential defined by the function or distribution to be learned. This mapping can be exploited to derive the asymptotic form of the loss landscape. Using techniques from physics, I will describe arguments that demonstrate the asymptotic convergence of both gradient descent and stochastic gradient descent to the optimal representation of the target function.
 
 * * *
 
@@ -24,7 +32,7 @@ Herman Kamper - _Visually grounded cross-lingual keyword spotting in speech_
 
 **17 September 2018**
 
-Benjamin Rosman - _Reinforcement learning at Wits_
+Benjamin Rosman - _Reinforcement learning at Wits_ [[slides](slides/2018-09-17_rosman.pdf)]
 
 * * *
 
