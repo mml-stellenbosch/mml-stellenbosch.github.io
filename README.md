@@ -11,14 +11,7 @@ Jump to:
 
 * * *
 
-**5 October 2018**, 13:00-13:50 in K303 (Knowledge Centre, Engineering)
-
-- Jeanne Daniel - _Language identification in short text using deep learning_
-- Herman Kamper - _Visually grounded cross-lingual keyword spotting in speech_
-
-* * *
-
-**19 October 2018**
+**19 October 2018**, 13:00-13:50 in K303 (Knowledge Centre, Engineering)
 
 Grant Rotskoff - _Neural networks as interacting particle systems_
 
@@ -27,6 +20,13 @@ I will describe a mapping from "wide" neural networks to systems of interacting 
 * * *
 
 # Previous talks (with slides)
+
+* * *
+
+**5 October 2018**
+
+- Jeanne Daniel - _Language identification in short text using deep learning_ [[slides](slides/2018-10-05_daniel.pdf)]
+- Herman Kamper - _Visually grounded cross-lingual keyword spotting in speech_ [[slides](slides/2018-10-05_kamper.pdf)]
 
 * * *
 
