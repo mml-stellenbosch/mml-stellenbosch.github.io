@@ -11,15 +11,25 @@ Jump to:
 
 * * *
 
-**19 October 2018**, 13:00-13:50 in K303 (Knowledge Centre, Engineering)
+**2 November 2018**, 13:00-13:50 in E352/353 (Electrical & Electronic Engineering)
 
-Grant Rotskoff - _Neural networks as interacting particle systems_
+Bruce Watson - _Inventive algorithmics and lattices_
 
-I will describe a mapping from "wide" neural networks to systems of interacting particles in an external potential defined by the function or distribution to be learned. This mapping can be exploited to derive the asymptotic form of the loss landscape. Using techniques from physics, I will describe arguments that demonstrate the asymptotic convergence of both gradient descent and stochastic gradient descent to the optimal representation of the target function.
+Traditionally, new algorithms have been designed through deep insights into a particular domain, or (more commonly) by evolving and tuning existing algorithms and their implementations. In both cases, the first attempt often has (hopefully minor) errors requiring correction through publication or code patches. The correctness-by-construction (CbC) approach to algorithm design is a (decades old, but underused) calculus and formalism for “deriving” an algorithm through a sequence of small correctness-preserving refinement steps, starting from the specification. The end result is not only an algorithm but, implicitly, a correctness proof. (Realistically, this should of course be coupled with verification and testing.) We have successfully applied CbC in a variety of domains, often yielding best-performing algorithms. This talk gives a short introduction to CbC as applied to lattice construction for knowledge-representation in data-science.
+
+JC Schoeman - _Planning for autonomous robots using probabilistic graphical models_
+
+The operation and capabilities of autonomous, computer-controlled vehicles are currently receiving a lot of attention across many research disciplines. In the field of electronic engineering, a prevalent goal is to develop a mobile robotic system that can accomplish some user-specified task, with little to no human intervention. Example applications of these systems would include self-driving cars, planetary exploration units and mobile surveillance and security systems. An important characteristic of such an autonomous system is the ability to plan its future actions. In this research project, we investigate the novel application of probabilistic graphical models (PGMs) to the robotic planning problem. More specifically, we aim to develop an algorithm that can be used to solve a general robotic planning problem, applicable to a wide variety of tasks and robot platforms. This will aid planning for tasks like mapping an environment, avoiding collisions with static or dynamic obstacles and navigating to an initially unknown location.
 
 * * *
 
 # Previous talks (with slides)
+
+* * *
+
+**19 October 2018**
+
+Grant Rotskoff - _Neural networks as interacting particle systems_ [[slides](slides/2018-10-19_rotskoff.pdf)]
 
 * * *
 
