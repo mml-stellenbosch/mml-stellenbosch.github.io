@@ -23,6 +23,14 @@ Jump to:
 
 * * *
 
+**9 November 2018**, 13:00-13:50 in E352/353 (Electrical & Electronic Engineering)
+
+Emile Engelbrecht - _Generative Adversarial Networks (GANs) Tutorial_
+
+GANs, over the last two years, have increased drastically in popularity for both Deep Generative Models and Semi-Supervised Models. GANs use deep learning and adversarial properties to produce state of the art results in these two fields. There have been multiple GANs developed over the last two years, each improving various downfalls of previous versions. This talk will be thoroughly discussing, after a brief introduction on deep learning, everything there is currently to know about GANs and how to implement them, including a thorough study of the mathematics originally used to motivate the creation of each type of GAN. 
+
+* * *
+
 # Previous talks (with slides)
 
 * * *
