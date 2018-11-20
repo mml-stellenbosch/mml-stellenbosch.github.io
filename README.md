@@ -11,8 +11,6 @@ Jump to:
 
 Talks will resume at the start of the 2019 academic year.
 
-* * *
-
 # Previous talks (with slides)
 
 * * *
