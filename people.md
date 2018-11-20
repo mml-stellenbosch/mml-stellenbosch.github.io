@@ -13,6 +13,11 @@ faculty:
     desc: Steve's research interests are machine learning theory, sequential decision making, and search techniques.
     website: http://www.cs.sun.ac.za/~kroon/decision.html
     url: http://www.cs.sun.ac.za/~kroon/
+  - name: Herman Kamper
+    img: /img/people/herman.jpg
+    desc: My main interests are in low-resource speech and language processing, with some research in computer vision, robotics and communication.
+    website: https://www.kamperh.com/
+    url: https://www.kamperh.com/
 ---
 
 
