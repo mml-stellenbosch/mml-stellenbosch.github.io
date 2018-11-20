@@ -19,7 +19,7 @@ Talks will resume at the start of the 2019 academic year.
 
 **9 November 2018**
 
-Emile Engelbrecht - _Generative Adversarial Networks (GANs) Tutorial_ [[slides](slides/2018-11-09_engelbrecht.pdf)]
+Emile Engelbrecht - _Generative Adversarial Networks (GANs) Tutorial_ [[slides](slides/2018-11-09_engelbrecht.pptx)]
 
 * * *
 
