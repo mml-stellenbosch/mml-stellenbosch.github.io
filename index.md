@@ -3,7 +3,7 @@ layout: page
 title: Maties Machine Learning
 subtitle: Machine learning at Stellenbosch University
 use-site-title: true
-bigimg: img/pexels-photo-719216.jpeg
+bigimg: img/pexels-photo-71921.jpeg
 ---
 
 Maties Machine Learning (MML) is a seminar series and discussion forum with the
