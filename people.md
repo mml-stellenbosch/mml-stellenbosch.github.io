@@ -1,7 +1,7 @@
 ---
 layout: page
 title: People
-subtitle: Faculty with a core focus in machine learning
+subtitle: Faculty with a core focus in Machine Learning
 faculty:
   - name: Willie Brink
     img: /photos/willie.jpg
@@ -22,9 +22,9 @@ faculty:
 ---
 
 
-Attendees of MML span multiple departments and faculties across Stellenbosch
+Participants of MML span multiple departments and faculties across Stellenbosch
 University. Here we list permanent Stellenbosch faculty who consider their
-core research to be in machine learning. This includes both foundational and
+core research to be in Machine Learning. This includes both foundational and
 applied research.
 
 
