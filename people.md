@@ -5,7 +5,7 @@ subtitle: Faculty with a core focus in machine learning
 faculty:
   - name: Willie Brink
     img: /photos/willie.jpg
-    desc: Willie works in computer vision and machine learning, and dabbles a bit in natural language processing.
+    desc: Willie's interests include deep learning for image and video analysis, the combination of vision and natural language, and visual knowledge modelling.
     website: http://appliedmaths.sun.ac.za/~wbrink/
     url: http://appliedmaths.sun.ac.za/~wbrink/
   - name: Steve Kroon
