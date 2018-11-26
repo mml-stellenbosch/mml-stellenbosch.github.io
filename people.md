@@ -5,7 +5,7 @@ subtitle: Faculty with a core focus in Machine Learning
 faculty:
   - name: Willie Brink
     img: /photos/willie.jpg
-    desc: Willie's interests include deep learning for image and video analysis, the combination of vision and natural language, and visual knowledge modelling.
+    desc: Willie's interests include deep learning for image and video analysis, as well as visual knowledge modelling.
     website: http://appliedmaths.sun.ac.za/~wbrink/
     url: http://appliedmaths.sun.ac.za/~wbrink/
   - name: Herman Kamper
