@@ -14,16 +14,16 @@ faculty:
     website: http://www.cs.sun.ac.za/~kroon/decision.html
     url: http://www.cs.sun.ac.za/~kroon/
   - name: Herman Kamper
-    <!-- img: /photos/herman.jpg -->
-    img: /photos/man-400x400.jpg
+    img: /photos/herman.jpg
+    <!-- img: /photos/man-400x400.jpg -->
     desc: Herman works on low-resource speech and language processing, with some research in computer vision, robotics and communication.
     website: https://www.kamperh.com/
     url: https://www.kamperh.com/
 ---
 
 
-Attendees of MML span multiple faculties and departments across Stellenbosch
-University. Here we list permanent Stellenbosch faculty that consider their
+Attendees of MML span multiple departments and faculties across Stellenbosch
+University. Here we list permanent Stellenbosch faculty who consider their
 core research to be in machine learning. This includes both foundational and
 applied research.
 
