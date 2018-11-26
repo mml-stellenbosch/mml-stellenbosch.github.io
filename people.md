@@ -19,6 +19,11 @@ faculty:
     desc: Steve's research interests are machine learning theory, sequential decision making, and search techniques.
     website: http://www.cs.sun.ac.za/~kroon/decision.html
     url: http://www.cs.sun.ac.za/~kroon/
+  - name: Hugo Touchette
+    img: /photos/hugo.jpg
+    desc: Hugo works on the modelling and simulation of random systems arising in physics, control theory and machine learning.
+    website: http://appliedmaths.sun.ac.za/~htouchette/
+    url: http://appliedmaths.sun.ac.za/~htouchette/
 ---
 
 
