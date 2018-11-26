@@ -8,17 +8,17 @@ faculty:
     desc: Willie's interests include deep learning for image and video analysis, the combination of vision and natural language, and visual knowledge modelling.
     website: http://appliedmaths.sun.ac.za/~wbrink/
     url: http://appliedmaths.sun.ac.za/~wbrink/
-  - name: Steve Kroon
-    img: /photos/steve.png
-    desc: Steve's research interests are machine learning theory, sequential decision making, and search techniques.
-    website: http://www.cs.sun.ac.za/~kroon/decision.html
-    url: http://www.cs.sun.ac.za/~kroon/
   - name: Herman Kamper
     img: /photos/herman.jpg
     <!-- img: /photos/man-400x400.jpg -->
     desc: Herman works on low-resource speech and language processing, with some research in computer vision, robotics and communication.
     website: https://www.kamperh.com/
     url: https://www.kamperh.com/
+  - name: Steve Kroon
+    img: /photos/steve.png
+    desc: Steve's research interests are machine learning theory, sequential decision making, and search techniques.
+    website: http://www.cs.sun.ac.za/~kroon/decision.html
+    url: http://www.cs.sun.ac.za/~kroon/
 ---
 
 
