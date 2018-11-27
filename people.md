@@ -28,7 +28,7 @@ faculty:
 
 
 Participants of MML span multiple departments and faculties across Stellenbosch
-University. Here we list permanent Stellenbosch faculty who consider their
+University. Here we list Stellenbosch faculty who consider their
 core research to be in Machine Learning. This includes both foundational and
 applied research.
 
