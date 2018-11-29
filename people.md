@@ -12,7 +12,7 @@ faculty:
   - name: Herman Kamper
     img: /photos/herman.jpg
     <!-- img: /photos/man-400x400.jpg -->
-    desc: Herman works on low-resource speech and language processing, with some research in computer vision, robotics and communications.
+    desc: Herman works on low-resource speech and language processing, with some research in computer vision, robotics and communication.
     website: https://www.kamperh.com/
     url: https://www.kamperh.com/
     email: kamperh@sun.ac.za
