@@ -15,6 +15,11 @@
         <div class="item-desc">{{ item.desc }}</div>
       {% endif %}
       <div class="item-links">
+        {% if item.email %}
+          <a class="item-link" href="{{ item.email }}" title="Email">
+            <span class="fa fa-envelope"></span>
+          </a>
+        {% endif %}
         {% if item.website %}
           <a class="item-link" href="{{ item.website }}" title="Website">
             <span class="fa fa-home"></span>
