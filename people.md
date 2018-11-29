@@ -14,7 +14,6 @@ faculty:
     desc: Herman works on low-resource speech and language processing, with some research in computer vision, robotics and communications.
     website: https://www.kamperh.com/
     url: https://www.kamperh.com/
-    email: kamperh@sun.ac.za
   - name: Steve Kroon
     img: /photos/steve.png
     desc: Steve's research interests are machine learning theory, sequential decision making, and search techniques.
