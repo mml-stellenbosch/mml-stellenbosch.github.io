@@ -9,6 +9,11 @@ faculty:
     website: http://appliedmaths.sun.ac.za/~wbrink/
     url: http://appliedmaths.sun.ac.za/~wbrink/
     email: mailto:wbrink@sun.ac.za
+  - name: Arina Britz
+    img: /photos/arina.jpg
+    desc: Arina's research interests are computational logic, knowledge representation and reasoning.
+    website: http://suinformatics.com/staff/
+    url: http://suinformatics.com/staff/
   - name: Herman Kamper
     img: /photos/herman.jpg
     <!-- img: /photos/man-400x400.jpg -->
