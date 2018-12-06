@@ -42,7 +42,7 @@ faculty:
     url: http://appliedmaths.sun.ac.za/~htouchette/
   - name: Bruce Watson
     img: /photos/bruce.jpg
-    desc: Bruce's interests include cyberwarfare, algorithmics, correctness-by-construction, and programming language design.
+    desc: Bruce's interests include cyberwarfare, KR, algorithmics, correctness-by-construction, programming language design, and optimisation.
     website: http://www.bruce-watson.com
     url: http://www.bruce-watson.com
   - name: Dawie van den Heever
