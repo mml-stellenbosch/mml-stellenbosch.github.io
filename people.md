@@ -20,7 +20,7 @@ faculty:
     website: 
   - name: Trienko Grobler
     img: /photos/trienko.jpg
-    desc: Trienko is particularly interested in using machine learning to solve problems in remote sensing, interferometry and trajectory mining.
+    desc: Trienko uses machine learning to solve problems in remote sensing, interferometry and trajectory mining.
     website: https://scholar.google.co.za/citations?user=R-voJbEAAAAJ&hl=en
     url: https://scholar.google.co.za/citations?user=R-voJbEAAAAJ&hl=en
   - name: Herman Kamper
@@ -42,7 +42,7 @@ faculty:
     url: http://appliedmaths.sun.ac.za/~htouchette/
   - name: Bruce Watson
     img: /photos/bruce.jpg
-    desc: Bruce's interests are cyberwarfare, knowledge representation, algorithmics, correctness-by-construction, programming language design, and optimisation.
+    desc: Bruce's interests include cyberwarfare, algorithmics, correctness-by-construction, and programming language design.
     website: http://www.bruce-watson.com
     url: http://www.bruce-watson.com
   - name: Dawie van den Heever
