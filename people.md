@@ -40,16 +40,16 @@ faculty:
     desc: Hugo works on the modelling and simulation of random systems arising in physics, control theory and machine learning.
     website: http://appliedmaths.sun.ac.za/~htouchette/
     url: http://appliedmaths.sun.ac.za/~htouchette/
-  - name: Bruce Watson
-    img: /photos/bruce.jpg
-    desc: Bruce's interests include cyberwarfare, KR, algorithmics, correctness-by-construction, programming language design, and optimisation.
-    website: http://www.bruce-watson.com
-    url: http://www.bruce-watson.com
   - name: Dawie van den Heever
     img: /photos/dawie.jpg
     desc: Dawie uses machine learning as a tool to unravel the mysteries of the brain.
     website: http://www.the-berg-us.com
     url: http://www.the-berg-us.com
+  - name: Bruce Watson
+    img: /photos/bruce.jpg
+    desc: Bruce's interests include cyberwarfare, KR, algorithmics, correctness-by-construction, programming language design, and optimisation.
+    website: http://www.bruce-watson.com
+    url: http://www.bruce-watson.com
 ---
 
 
