@@ -9,11 +9,6 @@ faculty:
     website: http://appliedmaths.sun.ac.za/~wbrink/
     url: http://appliedmaths.sun.ac.za/~wbrink/
     email: mailto:wbrink@sun.ac.za
-  - name: Arina Britz
-    img: /photos/arina.jpg
-    desc: Arina's research interests are computational logic, knowledge representation and reasoning.
-    website: http://suinformatics.com/staff/
-    url: http://suinformatics.com/staff/
   - name: Johan du Preez
     img: /photos/johan.jpg
     desc: Johan immerses himself in probabilistic pattern recognition and machine learning.
@@ -55,7 +50,7 @@ faculty:
 
 Participants of MML span multiple departments and faculties across Stellenbosch
 University. Here we list Stellenbosch faculty who consider their
-core research to be in Machine Learning. This includes both foundational and
+core research to include Machine Learning. This includes both foundational and
 applied research.
 
 
