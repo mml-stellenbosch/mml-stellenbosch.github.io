@@ -8,7 +8,6 @@ faculty:
     desc: Willie's interests include deep learning for image and video analysis, as well as visual knowledge modelling.
     website: http://appliedmaths.sun.ac.za/~wbrink/
     url: http://appliedmaths.sun.ac.za/~wbrink/
-    email: mailto:wbrink@sun.ac.za
   - name: Johan du Preez
     img: /photos/johan.jpg
     desc: Johan immerses himself in probabilistic pattern recognition and machine learning.
@@ -24,7 +23,6 @@ faculty:
     desc: Herman works on low-resource speech and language processing, with some research in computer vision, robotics and communication.
     website: https://www.kamperh.com/
     url: https://www.kamperh.com/
-    email: mailto:kamperh@sun.ac.za
   - name: Steve Kroon
     img: /photos/steve.png
     desc: Steve's research interests are machine learning theory, sequential decision making, and search techniques.
