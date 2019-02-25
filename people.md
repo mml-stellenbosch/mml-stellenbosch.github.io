@@ -35,6 +35,11 @@ faculty:
     desc: Hugo works on the modelling and simulation of random systems arising in physics, control theory and machine learning.
     website: http://appliedmaths.sun.ac.za/~htouchette/
     url: http://appliedmaths.sun.ac.za/~htouchette/
+  - name: Corné van Daalen
+    img: /photos/corne.png
+    desc: Corne focusses on reasoning and decision-making under uncertainty, applied to mobile robots.
+    website: http://staff.ee.sun.ac.za/cvdaalen/
+    url: http://staff.ee.sun.ac.za/cvdaalen/
   - name: Dawie van den Heever
     img: /photos/dawie.jpg
     desc: Dawie uses machine learning as a tool to unravel the mysteries of the brain.
