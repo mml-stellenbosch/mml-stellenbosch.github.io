@@ -15,7 +15,11 @@ Stellenbosch.
 
 Upcoming talks
 --------------
-Talks will resume at the start of the 2019 academic year.
+
+**1 March 2019**, 13:00-13:50 in K303 (Knowledge Centre, Engineering)
+
+We are launching a new idea called "meet the MML research groups", where a number of supervisors from across campus will each briefly introduce their group's focus areas and activities.  Our supervisors this week are Arina Britz, Bruce Watson, Corné van Daalen, Hugo Touchette, Sugnet Lubbe and Trienko Grobler.
+
 
 <!-- https://www.pexels.com -->
 <!-- https://unsplash.com -->
