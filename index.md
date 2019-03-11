@@ -16,6 +16,17 @@ Stellenbosch.
 Upcoming talks
 --------------
 
+
+**15 March 2019**, 13:00-13:50 in K303 (Knowledge Centre, Engineering)
+
+This week we will have three talks:
+
+- André Nortje - _Deep image compression using BINet_
+- Trienko Grobler - _Extracting high-volume traffic routes from ais spatial distribution maps_
+- Lydia de Lange - _Machine learning for antenna array failure analysis_
+
+***
+
 **1 March 2019**, 13:00-13:50 in K303 (Knowledge Centre, Engineering)
 
 _Meet the MML Research Groups_
